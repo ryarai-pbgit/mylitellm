@@ -5,7 +5,7 @@ https://docs.litellm.ai/docs/
 
 ### 1. 概要
 LiteLLMをAKS上で稼働させて、Azure OpenAIのプロキシとして動作させてみる。構成図は下記の通り。
-
+![](image/Arch.png)
 
 ### 2. 環境構築
 AKSは簡易にポータルから構築。
