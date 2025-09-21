@@ -14,7 +14,7 @@ AKSは簡易にポータルから構築。
 管理画面を立ち上げる際にデータベースが必要なようなのでPostgreも調達。
 ![](image/postgresql.png)
 
-LLMはAzure OpenAIで4o-miniを調達。
+LLMはAzure OpenAIでo4-miniを調達。
 ![](image/openai.png)
 
 デプロイメントの定義（deployment.yaml）は下記の通り。
